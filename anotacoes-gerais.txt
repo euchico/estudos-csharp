@@ -1,0 +1,20 @@
+C# foi desenvolvida pela Microsoft como parte da plataforma .NET.
+C# pode ser utilizar para diferentes funções, como sistemas para web (web sites ou web apps), sistemas puramente "server-side", aplicativos móveis, jogos ou aplicativos de desktop.
+
+C# e .NET surgem de uma briga judicial entre Microsoft e Sun pela licensa do Java.
+
+Característica:
+- Multiparadigma
+* Com foco principal na Programação Orientada a Objetos.
+- Fortemente Tipada
+
+Empresas que usam C#:
+- Stack Overflow
+- Dell
+- Siemens
+- Microsoft
+- Intel
+- Asus
+- Honda
+- Infraero
+- Outback

@@ -1,0 +1,8 @@
+ESPERA:
+- https://docs.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/
+
+CANAL:
+- Código Fonte TV: https://www.youtube.com/c/codigofontetv
+
+VÍDEO:
+- Código Fonte TV: https://youtu.be/NXVQasys0B8
